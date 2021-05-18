@@ -58,3 +58,9 @@ Topic: <your-topic-name>	TopicId: KfCandFCTbCaGEwraEPq3Q	PartitionCount: 3	Repli
 	Topic: <your-topic-name>	Partition: 1	Leader: 0	Replicas: 0	Isr: 0
 	Topic: <your-topic-name>	Partition: 2	Leader: 0	Replicas: 0	Isr: 0
 ```
+
+Run the executable
+
+```bash
+sh execute.sh
+```
