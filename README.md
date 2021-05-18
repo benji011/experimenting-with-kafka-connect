@@ -1,6 +1,6 @@
 ## About
 
-Just an experimental project using the Twitter Source connector to produce tweets as messages.
+Just an experimental project using the [Twitter Source connector](https://github.com/jcustenborder/kafka-connect-twitter) to produce tweets as messages.
 
 ## Getting started
 
