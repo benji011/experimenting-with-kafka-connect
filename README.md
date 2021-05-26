@@ -1,6 +1,7 @@
 <p align="center">
   <img src="/kafka-connect.png" alt="kafka-connect-diagram"/>
 </p>
+
 Just an experimental project using the [Twitter Source connector](https://github.com/jcustenborder/kafka-connect-twitter) to produce tweets as messages.
 
 ## Getting started
